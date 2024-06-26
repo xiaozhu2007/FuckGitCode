@@ -22,6 +22,7 @@ GIT_REPO_URLS=(
     "https://gitcode.com/git/git-scm.com.git"
     "https://gitcode.com/git/sha1collisiondetection.git"
     "https://gitcode.com/byzer-org/byzer-lang.git"
+    "https://gitcode.com/shenweiyan/WebStack-Hugo.git"
     # ...
 )
 
