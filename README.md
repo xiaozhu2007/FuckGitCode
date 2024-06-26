@@ -30,3 +30,7 @@
 - <span class="tag done-tag">✔</span> **`报表设计`** - _支持定时数据报表_
 - <span class="tag done-tag">✔</span> **`产品管理`** - _攻击端设备的产品管理_
 - <span class="tag done-tag">✔</span> **`设备管理`** - _攻击端设备的管理,支持多协议接入，MQTT,TCP,UDP,COAP,HTTP,TLS,DNS等_
+
+#### 💌 支持作者
+
+如果觉得框架不错，希望你可以去 <a target="_blank" href="https://stresser.su/">Stresser.su</a> 帮我给 GitCode 发点攻击，这将是对我极大的鼓励与支持。
