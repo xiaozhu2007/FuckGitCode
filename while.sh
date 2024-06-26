@@ -26,6 +26,7 @@ GIT_REPO_URLS=(
     "https://gitcode.com/MetaCubeX/subconverter.git"
     "https://gitcode.com/MetaCubeX/ClashX.Meta.git"
     "https://gitcode.com/MetaCubeX/mihomo"
+    "https://gitcode.com/SagerNet/sing-box"
     # ...
 )
 
