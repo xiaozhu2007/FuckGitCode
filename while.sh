@@ -12,6 +12,9 @@ GIT_REPO_URLS=(
     "https://gitcode.com/openharmony/kernel_liteos_a.git"
     "https://gitcode.com/binary/WxJava.git"
     "https://gitcode.com/binary/java-emoji-converter.git"
+    "https://gitcode.com/ploc-org/CNPL.git"
+    "https://gitcode.com/NervJS/taro.git"
+    "https://gitcode.com/minliuhua/warm-flow.git"
     # ...
 )
 
