@@ -15,6 +15,13 @@ GIT_REPO_URLS=(
     "https://gitcode.com/ploc-org/CNPL.git"
     "https://gitcode.com/NervJS/taro.git"
     "https://gitcode.com/minliuhua/warm-flow.git"
+    "https://gitcode.com/github/memcached.git"
+    "https://gitcode.com/github/strap.git"
+    "https://gitcode.com/git/git.git"
+    "https://gitcode.com/git/git.github.io.git"
+    "https://gitcode.com/git/git-scm.com.git"
+    "https://gitcode.com/git/sha1collisiondetection.git"
+    "https://gitcode.com/byzer-org/byzer-lang.git"
     # ...
 )
 
