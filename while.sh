@@ -6,6 +6,12 @@ GIT_REPO_URLS=(
     "https://gitcode.com/doocs/md.git"
     "https://gitcode.com/kubesphere/kubesphere.git"
     "https://gitcode.com/doocs/advanced-java.git"
+    "https://gitcode.com/BMi_Yile/talk-image.git"
+    "https://gitcode.com/openharmony/applications_app_samples.git"
+    "https://gitcode.com/PandaX-Go/PandaX.git"
+    "https://gitcode.com/openharmony/kernel_liteos_a.git"
+    "https://gitcode.com/binary/WxJava.git"
+    "https://gitcode.com/binary/java-emoji-converter.git"
     # ...
 )
 
